@@ -1,4 +1,7 @@
-# Architecture
+# Future developments
+![alt Minimum Viable Product](https://s3.amazonaws.com/wildrydes-yash-chakka/images/Architecture_New+(1).png)
+
+# Genral Architecture
 ![alt Minimum Viable Product](https://s3.amazonaws.com/wildrydes-yash-chakka/Architecture_Object_Detection.png)
 
 # General Flow
